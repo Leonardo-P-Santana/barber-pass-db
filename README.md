@@ -50,7 +50,7 @@ Demonstração das 4 operações básicas da linguagem SQL operando de forma tra
 <img width="577" height="219" alt="DELETE" src="https://github.com/user-attachments/assets/4fe92a53-a88a-4051-9537-26dd3aa8a75f" />
 
 
-### Arquivo Completo de Consultas (10 Relatórios)
+### 6. Arquivo Completo de Consultas (10 Relatórios)
 Para demonstrar a vasta capacidade de extração de dados da plataforma, foram desenvolvidos 10 scripts de Business Intelligence contemplando agregações, múltiplos joins e filtros complexos.
 <img width="1001" height="760" alt="CONSULTAS TABELAS" src="https://github.com/user-attachments/assets/2530a533-e610-4202-8169-a193680ebd82" />
 
@@ -66,5 +66,6 @@ Comando utilizado para adequar a nomenclatura de uma coluna ao padrão do projet
 
 ### Exclusão de Coluna (Drop Column)
 Comando utilizado para remover a coluna física de 'telefone' da tabela principal, justificando a criação da tabela dependente e garantindo o suporte a atributos multivalorados (múltiplos telefones por barbearia).
+
 <img width="462" height="119" alt="alter - drop" src="https://github.com/user-attachments/assets/27b54424-d5a0-4e23-81b1-736aa284e681" />
 
